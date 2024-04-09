@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  *
- * @author ProfDiurno 
+ * @author Javier Peñalva Gonzalez 
  */
 public class Curso {
 

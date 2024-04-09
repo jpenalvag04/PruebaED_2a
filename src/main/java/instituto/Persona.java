@@ -3,7 +3,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package instituto;
-
+/**
+ *
+ * @author Javier Peñalva Gonzalez 
+ */
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.Objects;

@@ -6,7 +6,7 @@ package instituto;
 
 /**
  *
- * @author ProfDiurno
+ * @author Javier Peñalva Gonzalez 
  */
 public class Nif {
 

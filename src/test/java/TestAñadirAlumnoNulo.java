@@ -16,7 +16,7 @@ import static org.junit.jupiter.api.Assertions.fail;
 
 /**
  *
- * @author jpena
+ * @author Javier Peñalva Gonzalez 
  */
 public class TestAñadirAlumnoNulo {
     

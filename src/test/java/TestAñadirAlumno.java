@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 /**
  *
- * @author jpena
+ * @author Javier Peñalva Gonzalez 
  */
 public class TestAñadirAlumno {
     

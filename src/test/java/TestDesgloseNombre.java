@@ -14,7 +14,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
  *
- * @author jpena
+ * @author Javier Peñalva Gonzalez 
  */
 public class TestDesgloseNombre {
     
